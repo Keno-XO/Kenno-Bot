@@ -1,7 +1,14 @@
 {
-  "name": "app",
+  "name": "kenno-bot",
   "version": "1.0.0",
+  "description": "Telegram bot using Telegraf",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.16.3"
   }
 }
